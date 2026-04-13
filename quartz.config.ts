@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "The Fifth Science — Wiki",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,8 +16,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "gogoliri.github.io/the-fifth-science-wiki",
+    ignorePatterns: ["private", "templates", ".obsidian", "sources", "CLAUDE.md"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

@@ -1,5 +1,4 @@
 .DS_Store
-.gitignore
 node_modules
 public
 prof
@@ -9,3 +8,8 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+
+# Copyrighted book content — full text of Exurb1a's "The Fifth Science".
+# Excluded from the public wiki build; kept locally for ingest workflow only.
+content/sources/
+content/CLAUDE.md
