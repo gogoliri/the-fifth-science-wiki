@@ -16,6 +16,17 @@ Append-only record of wiki operations. See `CLAUDE.md` for log format.
 - Seeded entity pages for everything named in the Timeline and Introduction: 4 characters, 3 places, 3 ships, 4 factions, 8 technologies, 4 concepts, 2 events.
 - Stories Ch. 03 through Ch. 14 remain un-ingested — to be done one at a time in future sessions.
 
+## [2026-04-14] lint | 3 broken links fixed; 2 stale concept pages updated; 3 new pages created
+- **Broken links resolved:**
+  - `[[Orb Flain]]` (7 occurrences in TZ Star.md, The Dictionary.md, Vasily Incident.md) → created `places/Orb Flain.md`.
+  - `[[Winchester]]` (4 occurrences in Eda Hamebe.md, The Ertian Surgeon.md) → created `places/Winchester.md`.
+  - `[[Teleporter Ethics]]` (1 occurrence in The Menagerie.md) → created `concepts/Teleporter Ethics.md`.
+- **Stale pages updated:**
+  - [[Consciousness]]: added Ch. 05 to sources (was missing); added Ch. 07 "In the book" bullet (nerve creature, dreaming stars).
+  - [[Panpsychism]]: added Ch. 07 to sources and "In the book" (the "Polly Hare's devotees" passage — first named in-universe panpsychist faction); resolved the open question "does any in-universe character advocate panpsychism explicitly."
+- **No orphan pages found.** All non-source wiki pages have at least one inbound link.
+- **No contradictions detected** across ingested chapters.
+
 ## [2026-04-14] ingest | Ch. 07 — 101 Things to Not Visit in the Galaxy Before You Die
 - Wrote story page: `stories/101 Things to Not Visit in the Galaxy Before You Die.md`. No named POV character; essay/catalogue format.
 - Created 4 new concept pages: [[Ether Orca]] (higher-dimensional void creature), [[Hermit Worm]] (planet-wearing organism; empire's only advice is to flee), [[Dreaming Stars]] (memory-playing star-entities drawing in the young and tired), [[Warning Beacons]] (undeciphered crystalline radio spheres near lethal zones; 400 years untranslated).

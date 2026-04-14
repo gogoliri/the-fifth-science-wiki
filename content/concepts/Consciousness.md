@@ -2,7 +2,7 @@
 type: concept
 aliases: []
 first_seen: Ch. 01 — Introduction
-sources: [Ch. 01 — Introduction, Ch. 03 — For Every Dove a Bullet, Ch. 04 — The Menagerie, Ch. 06 — And the Leaves All Sing of God, Ch. 15 — Notes on Why Stuff Got Written]
+sources: [Ch. 01 — Introduction, Ch. 03 — For Every Dove a Bullet, Ch. 04 — The Menagerie, Ch. 05 — A Dictionary, Ch. 06 — And the Leaves All Sing of God, Ch. 07 — 101 Things to Not Visit in the Galaxy Before You Die, Ch. 15 — Notes on Why Stuff Got Written]
 tags: [fifth-science/concept]
 ---
 
@@ -23,7 +23,9 @@ The ambiguity is load-bearing. If consciousness is substrate-independent, [[The 
 - [[Ch. 01 — Introduction]]: Framed as something we may one day induce in matter.
 - [[Ch. 03 — For Every Dove a Bullet]]: Depicted directly — wanderers as free-floating consciousnesses, [[Mentalic Ontology]] as philosophy, [[Nootics]] as attempted empirical science.
 - [[Ch. 04 — The Menagerie]]: Pattern-view weaponised — [[Topology Casting]] treats mind and body as capturable patterns and discards the original. The 48-hour breakdown and the Beethoven artefact suggest the pattern-view may be missing something.
+- [[Ch. 05 — A Dictionary]]: Implicit — the hard-problem surfaces in the form of identity questions around topology casting and in [[Eda Hamebe]]'s framing of [[The Dictionary]] as something that "will change things, really change things."
 - [[Ch. 06 — And the Leaves All Sing of God]]: Pattern-view inverted — a mind can be broken by content rather than by damage. The [[The Great Quandaries|Quandaries]] kill mInds who integrate them; [[The Submariner]]'s silence is the book's first pattern-view failure-by-content.
+- [[Ch. 07 — 101 Things to Not Visit in the Galaxy Before You Die]]: Two new edge cases. (1) The unnamed nerve-filament creature orbiting [[New Gara Bov]] — a moon-sized mind with no sensory organs that may compute its environment from base logic alone, a consciousness that is *purely inferential*. (2) The [[Dreaming Stars]] — entities that read and re-play the most personal human memories, implying some form of mind-interfacing capability whose mechanism is completely unexplained.
 - [[Ch. 15 — Notes on Why Stuff Got Written]]: Questioned and qualified.
 
 ## Real-world grounding

@@ -59,6 +59,8 @@ Catalog of every wiki page. Read this first before answering queries. See `CLAUD
 
 ## Places
 - [[Aerth]] — The human homeworld; the old-spelling counterpart of Earth.
+- [[Orb Flain]] — Ch. 05. Colony world / system where an astronomy satellite tracked the second TZ-exit artifact; established the artifacts as anomalous.
+- [[Winchester]] — Ch. 05. Settlement on Aerth; where [[Eda Hamebe]] lives implant-free; setting of the Surgeon's final scene.
 - [[New Gara Bov]] — Ch. 07. Colony world briefly orbited by a moon-sized nerve-filament creature; "Polly Hare's devotees" interpret it as panpsychist evidence.
 - [[Signus B3]] — Ch. 07. Star system whose two colony worlds merged into planetary superorganisms via mind-blending technology and subsequently fell in love.
 - [[Ist]] — Ch. 07. Colony world destroyed by its own secret dust technology; only ashes remain.
@@ -124,6 +126,7 @@ Catalog of every wiki page. Read this first before answering queries. See `CLAUD
 - [[The Dictionary]] — Ch. 05. Forty+ xeno-authored technical definitions delivered as TZ-exit artifact cargo.
 - [[The Great Quandaries]] — Ch. 06. Three cross-scale regions of nature (galactic cluster C1E13, gauge theory Scalar B, storm turbulence) lethal to any mInd who reads them directly.
 - [[The Message]] — Ch. 06. Aleph's hypothesis — and the narrator's vindication — that the Quandaries are a unity signature embedded in nature at every observable scale.
+- [[Teleporter Ethics]] — Ch. 04. The scan-disintegrate-reconstruct problem: is topology casting murder? Ch. 04 is the rant in fiction form.
 - [[Ether Orca]] — Ch. 07. Higher-dimensional void creature; cuts through dimensional space via infinitely thin beak; surfaces near voidships and dives away.
 - [[Hermit Worm]] — Ch. 07. Planet-scale creature that wears planets like shells, consuming them from inside; no known defense.
 - [[Dreaming Stars]] — Ch. 07. Star-like structures that play your lost memories in your mind and invite you to enter; increasingly many people are accepting.

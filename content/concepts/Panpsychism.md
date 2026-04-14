@@ -2,7 +2,7 @@
 type: concept
 aliases: []
 first_seen: Ch. 01 — Introduction
-sources: [Ch. 01 — Introduction, Ch. 03 — For Every Dove a Bullet, Ch. 06 — And the Leaves All Sing of God, Ch. 15 — Notes on Why Stuff Got Written]
+sources: [Ch. 01 — Introduction, Ch. 03 — For Every Dove a Bullet, Ch. 06 — And the Leaves All Sing of God, Ch. 07 — 101 Things to Not Visit in the Galaxy Before You Die, Ch. 15 — Notes on Why Stuff Got Written]
 tags: [fifth-science/concept, fifth-science/consciousness]
 ---
 
@@ -19,6 +19,7 @@ The philosophical position that [[Consciousness]] is a fundamental feature of re
 - [[Ch. 01 — Introduction]]: Not named, but the introduction's core claim ("we will learn to make non-conscious things conscious … matter itself, from the molecular up to the cosmic") is straightforwardly panpsychist.
 - [[Ch. 03 — For Every Dove a Bullet]]: Dramatised. [[Mentalic Ontology]] is the in-universe name for panpsychism, and the wanderers are its walking proof.
 - [[Ch. 06 — And the Leaves All Sing of God]]: Endorsed as recovered cosmological fact in the narrator's closing sketch of the decoded [[The Message]].
+- [[Ch. 07 — 101 Things to Not Visit in the Galaxy Before You Die]]: "Polly Hare's devotees still remain strong in some regions of the empire" — the narrator's editorial comment on the nerve-filament creature orbiting [[New Gara Bov]], which scholars suggest computes the universe from first principles. This is the first time panpsychism is named in-universe as a *faction with adherents* rather than a research programme or a reader-facing frame. It also answers the open question below: in-universe advocates do exist, and they identify explicitly with Polly Hare's legacy.
 - [[Ch. 15 — Notes on Why Stuff Got Written]]: [[Exurb1a]] names the doctrine explicitly and ties it to the genesis of [[Ch. 03 — For Every Dove a Bullet]].
 
 ## Real-world grounding
@@ -31,4 +32,4 @@ The philosophical position that [[Consciousness]] is a fundamental feature of re
 - [[Exurb1a]]
 
 ## Open questions
-- Does any in-universe character advocate panpsychism explicitly, or is it strictly a reader-facing framing device?
+- "Polly Hare's devotees" are named in Ch. 07 — who are they? A named philosophical school, a loose network, a quasi-religious movement?
