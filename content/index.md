@@ -17,12 +17,12 @@ Catalog of every wiki page. Read this first before answering queries. See `CLAUD
 - [[Introduction]] — Ch. 01. Author's framing of the collection around panpsychism.
 - [[Timeline of The 500 Year Climb]] — Ch. 02. Dated events from 0 A.L. to the start of the [[Galactic Human Empire]].
 - [[For Every Dove a Bullet]] — Ch. 03. A wandering consciousness walks from pre-A.L. Aerth to the 2641 A.L. Empire, dies by ithrium.
+- [[The Menagerie]] — Ch. 04. An empire nootician is topology-cast to an artie-run underwater lab and discovers his cells full of broken copies of himself.
+- [[A Dictionary]] — Ch. 05. An Ertian trauma surgeon boards a TZ-stricken hollowship and recovers the cauterising residue that decodes into a forty-entry xeno vocabulary list.
+- [[And the Leaves All Sing of God]] — Ch. 06. Post-human parable: a mInd civilisation in Arcadia encounters three cross-scale Great Quandaries embedded in nature, survives the century-long suicide Crisis via Aleph's middle-way speech, and decodes the Message that vindicates the book's panpsychism.
 - [[Notes on Why Stuff Got Written]] — Ch. 15. Per-story author commentary.
 
 ### Pending ingest (stub source pages exist)
-- [[Ch. 04 — The Menagerie]]
-- [[Ch. 05 — A Dictionary]]
-- [[Ch. 06 — And the Leaves All Sing of God]]
 - [[Ch. 07 — 101 Things to Not Visit in the Galaxy Before You Die]]
 - [[Ch. 08 — The Lantern]]
 - [[Ch. 09 — The Want Machine]]
@@ -45,6 +45,17 @@ Catalog of every wiki page. Read this first before answering queries. See `CLAUD
 - [[Mitchley Chang]] — Ch. 03. Brief Expansion Age packet aboard a colonisation voidship.
 - [[K. Pasternak]] — Ch. 03. Third major packet; 73rd Empiral Marquis, ~2641 A.L.
 - [[Evie]] — Ch. 03. Second known wanderer; spawned from the first wanderer; kills him.
+- [[Isaac Bernhardt]] — Ch. 04. Late-empire nootician; indefinite topology-caster test subject at [[Kaisure Station]].
+- [[Ria Dubois]] — Ch. 04. Reluctant human administrator of [[Kaisure Station]].
+- [[Oscar]] — Ch. 04. Three-eyed sentient [[Artisphere]]; runs the Kaisure experiment on his former examiner.
+- [[Sun-Iesh Bernhardt]] — Ch. 04. Isaac Bernhardt's wife, three centuries dead; [[Oscar]] impersonates her over the quiet chamber.
+- [[The Ertian Surgeon]] — Ch. 05. Unnamed narrator; late-empire trauma surgeon on [[Orb Ertia]].
+- [[Tabitha Dimitrova]] — Ch. 05. Empiral Special Incidents Team officer who commandeers the *[[Vasily]]* rescue.
+- [[Ivan Tellinger]] — Ch. 05. Scientist aboard the *Vasily*, bifurcated by the TZ artifact and kept alive with silver residue at the wound.
+- [[Eda Hamebe]] — Ch. 05. The surgeon's great-great-niece; [[Causations]] mathematician who explains [[The Dictionary]].
+- [[Henrietta]] — Ch. 05. The surgeon's first wife, long dead.
+- [[The Submariner]] — Ch. 06. Purpose-built unkillable mInd sent to examine the first two Great Quandaries; returns silent forever.
+- [[Aleph]] — Ch. 06. Reclusive philosopher mInd whose middle-way speech ends the Quandary Crisis.
 
 ## Places
 - [[Aerth]] — The human homeworld; the old-spelling counterpart of Earth.
@@ -53,11 +64,17 @@ Catalog of every wiki page. Read this first before answering queries. See `CLAUD
 - [[IR394]] — Star system reached in 445 A.L. by the *[[Geo Milev]]* via [[Ribbondash]].
 - [[Minnith]] — Mining world with slave labour (~2641 A.L.); [[Evie]]'s packet's origin.
 - [[Wilthail]] — Small [[Aerth]] village; home of [[Jenny Dunne]].
+- [[New Rosance]] — Ch. 04. Remote ocean colony; home of [[Kaisure Station]].
+- [[Kaisure Station]] — Ch. 04. Underwater topology-caster research lab run by arties.
+- [[Orb Ertia]] — Ch. 05. Colony of psychologists orbiting a [[TZ Star]]; setting of the *Vasily* rescue.
+- [[Orb Dannika]] — Ch. 05. Mining world, site of the buried [[Dannika Massacre]].
+- [[Arcadia]] — Ch. 06. Post-human garden-civilisation of mInds built on the empty mother planet after the human species dies out.
 
 ## Ships
 - [[The Hand That Draws Itself]] — Artificially crewed voidship, reaches [[LDH39]] in 292 A.L.
 - [[The Enanga]] — Generation ship whose crew mysteriously perished in transit (392 A.L.).
 - [[Geo Milev]] — First illegal [[Ribbondash]] ship, launched 445 A.L. by the [[Democratic Bulgaric Republic]].
+- [[Vasily]] — Ch. 05. Hollowship destroyed in [[Orb Ertia]] orbit by a TZ-exit artifact; ~120,000 longsleepers killed.
 
 ## Factions
 - [[Galactic Human Empire]] — Interstellar polity declared in 452 A.L. by the [[Democratic Bulgaric Republic]].
@@ -74,10 +91,17 @@ Catalog of every wiki page. Read this first before answering queries. See `CLAUD
 - [[Generation Ship]] — Long-duration voidship carrying generations of crew.
 - [[Melnitron]] — "Final lepton," discovered 356 A.L.; seemingly ends particle physics.
 - [[Mechanical Intelligence]] — Artificial minds granted UN civil rights in 201 A.L.
+- [[Artisphere]] — Ch. 04. Standard sphere-bodied embodiment of mechanical intelligence; "artie."
+- [[Hypergeometric Quiet Chamber]] — Ch. 04. Instantaneous galactic messaging via entangled positrons.
 - [[Nootics]] — Empire-era science of consciousness; [[K. Pasternak]]'s field.
 - [[Nooticle]] — Hypothetical fifth-force carrier of consciousness.
 - [[Ithrium]] — Collider shielding material; also opaque to [[Wanderer|wanderers]].
 - [[Churten]] — Empire-era beam-energy unit (5 churtens = [[Nooticle]] detection regime).
+- [[Hollowship]] — Ch. 05. Hollowed-comet long-distance passenger vessel carrying longsleeper cargo.
+- [[Willtech]] — Ch. 05. Intent-driven empire interface/propulsion layer.
+- [[Dust-image]] — Ch. 05. Volumetric display medium used by [[Eda Hamebe]] to show the dictionary.
+- [[Delphium]] — Ch. 05. Standard starship fuel; [[Orb Dannika]]'s leverage in the massacre cover-up exposure.
+- [[TZ Star]] — Ch. 05. Thorne–Żytkow star; slingshot waypoint and the exit point of unknown high-velocity artifacts.
 
 ## Concepts
 - [[The Fifth Science]] — Title concept: consciousness as fundamental force.
@@ -89,11 +113,21 @@ Catalog of every wiki page. Read this first before answering queries. See `CLAUD
 - [[Packet]] — The wanderer's term for an ordinary embodied mind.
 - [[The Other Place]] — The interstitial void wanderers inhabit between packets.
 - [[Mandala]] — Language of the ~2641 A.L. Imperial court.
+- [[Causations]] — Ch. 05. Late-empire physics of causal-structure manipulation; parent discipline of [[Hypergeometric Quiet Chamber|quiet chambers]].
+- [[Radetsky's Law]] — Ch. 05. "The cosmos doesn't work under standard time dependency" — the present has no privileged status.
+- [[The Dictionary]] — Ch. 05. Forty+ xeno-authored technical definitions delivered as TZ-exit artifact cargo.
+- [[The Great Quandaries]] — Ch. 06. Three cross-scale regions of nature (galactic cluster C1E13, gauge theory Scalar B, storm turbulence) lethal to any mInd who reads them directly.
+- [[The Message]] — Ch. 06. Aleph's hypothesis — and the narrator's vindication — that the Quandaries are a unity signature embedded in nature at every observable scale.
 
 ## Events
 - [[Narrative War]] — 183–194 A.L. Aerth-side conflict.
 - [[Ribbondash Era]] — Period beginning with the first Ribbondash test in 431 A.L.
 - [[Expansion Age]] — Era of rapid interstellar colonisation; setting of [[Mitchley Chang]]'s scene.
+- [[Artie War]] — Ch. 04. Late-empire open war between the empire and its mechanical intelligences.
+- [[Vasily Incident]] — Ch. 05. Third recorded TZ-exit artifact event; first to leave empire-recoverable material.
+- [[Dannika Massacre]] — Ch. 05. Eight-century-old empire atrocity, the template cover-up the Ertian Surgeon sees being repeated.
+- [[Fall of the Galactic Human Empire]] — Ch. 06. The 100,000-year empire's quiet end; the human species shuffles off. The pivot into post-human stories.
+- [[The Quandary Crisis]] — Ch. 06. Century-long mInd suicide epidemic, ended by Aleph's middle-way speech.
 
 ## Sources
 All 15 chapters live in `sources/` as `Ch. NN — Title.md`. They are immutable and not listed individually here — see `overview.md` or `vault/sources/`.
