@@ -2,7 +2,7 @@
 type: faction
 aliases: [the Empire]
 first_seen: Ch. 01 — Introduction
-sources: [Ch. 01 — Introduction, Ch. 02 — Timeline of The 500 Year Climb, Ch. 03 — For Every Dove a Bullet, Ch. 04 — The Menagerie, Ch. 05 — A Dictionary, Ch. 06 — And the Leaves All Sing of God, Ch. 15 — Notes on Why Stuff Got Written]
+sources: [Ch. 01 — Introduction, Ch. 02 — Timeline of The 500 Year Climb, Ch. 03 — For Every Dove a Bullet, Ch. 04 — The Menagerie, Ch. 05 — A Dictionary, Ch. 06 — And the Leaves All Sing of God, Ch. 07 — 101 Things to Not Visit in the Galaxy Before You Die, Ch. 15 — Notes on Why Stuff Got Written]
 tags: [fifth-science/faction, fifth-science/empire]
 ---
 
@@ -33,6 +33,14 @@ By [[The Ertian Surgeon]]'s working life the Empire is visibly wearing out. [[Ta
 - **Deliberate exposure of civilians to unknown xeno phenomena.** The [[Vasily Incident]] reveals that the Empire has been **routing hollowships through [[TZ Star]] systems** in the hope of harvesting another artifact exit event. The 120,000 longsleepers aboard the *[[Vasily]]* were acceptable collateral.
 - **Persistent internal leaks.** The decoded dictionary reaches the public via a leak from "the science division on [[New Rosance|Rosance]]" — the Empire no longer has internal cohesion sufficient to keep its own experimental programs secret.
 
+## Empire-wide policies and phenomena ([[Ch. 07 — 101 Things to Not Visit in the Galaxy Before You Die]])
+Ch. 07 is narrated as an official-adjacent catalogue of galactic oddities, and several empire policies emerge from the framing:
+
+- **[[Hermit Worm]] advisory.** The empire's official recommendation if a hermit worm approaches a planet or moon is to evacuate immediately. There is no known method of fighting one.
+- **[[Dust Technology]] ban.** Dust technology — the illegal nano-artform — is explicitly "illegal throughout the empire, save for use by high officials." The destruction of [[Ist]] (a colony world that independently developed dust technology under feudal governance and destroyed itself in a nanotechnological war) is held up as the cautionary case.
+- **Tolerance of mind-blending endpoints.** The merger of [[Signus B3]]'s two worlds into planetary superorganisms is described as a phenomenon "now well understood in the empire" — implying the empire has seen this before, considers the outcome a known trajectory, and does not intervene. Whether mind-blending technology itself is legal or regulated is unstated.
+- **[[Dreaming Stars]] crisis (implied).** The narrator closes the catalogue with alarm at the growing number of "the young, the tired, and the spent" who are giving themselves over to dreaming stars — entities that read memories and invite travellers to enter permanently. The empire appears to have no policy response; the narrator's prayer suggests none is forthcoming.
+
 ## Notable members
 - [[Democratic Bulgaric Republic]] — founding state.
 - [[K. Pasternak]] — 73rd Empiral Marquis, ~2641 A.L. Secretly a packet of [[The First Wanderer]].
@@ -45,6 +53,7 @@ By [[The Ertian Surgeon]]'s working life the Empire is visibly wearing out. [[Ta
 - [[Ch. 04 — The Menagerie]]: Late-period; at open war with its arties; a Marquis hands [[Isaac Bernhardt]] over as part of peace terms.
 - [[Ch. 05 — A Dictionary]]: Decline-fatigue on display — ESIT, Marquis Guards, the quiet-chamber-hiding voidfleet branch, the hollowship-as-bait policy, and the Dannika Massacre exposed as standard cover-up practice.
 - [[Ch. 06 — And the Leaves All Sing of God]]: Named as a 100,000-year empire that ends in quiet species extinction. Pivots the book's timeframe into post-human territory.
+- [[Ch. 07 — 101 Things to Not Visit in the Galaxy Before You Die]]: Empire policies referenced: hermit worm evacuation advisory, dust technology ban (high-official exemption), tacit acknowledgement of mind-blending's planetary-superorganism endpoint, and no stated response to the dreaming stars crisis.
 - [[Ch. 15 — Notes on Why Stuff Got Written]]: Discussed in context of its end.
 
 ## Related

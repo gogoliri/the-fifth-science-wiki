@@ -16,6 +16,15 @@ Append-only record of wiki operations. See `CLAUDE.md` for log format.
 - Seeded entity pages for everything named in the Timeline and Introduction: 4 characters, 3 places, 3 ships, 4 factions, 8 technologies, 4 concepts, 2 events.
 - Stories Ch. 03 through Ch. 14 remain un-ingested — to be done one at a time in future sessions.
 
+## [2026-04-14] ingest | Ch. 07 — 101 Things to Not Visit in the Galaxy Before You Die
+- Wrote story page: `stories/101 Things to Not Visit in the Galaxy Before You Die.md`. No named POV character; essay/catalogue format.
+- Created 4 new concept pages: [[Ether Orca]] (higher-dimensional void creature), [[Hermit Worm]] (planet-wearing organism; empire's only advice is to flee), [[Dreaming Stars]] (memory-playing star-entities drawing in the young and tired), [[Warning Beacons]] (undeciphered crystalline radio spheres near lethal zones; 400 years untranslated).
+- Created 4 new place pages: [[New Gara Bov]] (colony world visited by a nerve-filament moon-creature), [[Signus B3]] (two planets merged into superorganisms via mind-blending; now in a slow interplanetary romance), [[Ist]] (colony world destroyed by its own dust-tech war; ashes only remain), [[Barnard Nebula]] (lethal nebula behind the best-documented warning beacon).
+- Created 2 new technology pages: [[Dust Technology]] (illegal nano-artform, mental-band driven; destroyed [[Ist]]; distinct from [[Dust-image]]), [[Mind-Blending Technology]] (consciousness-merging tech with inevitable planetary-superorganism endpoint).
+- Updated [[Polly Hare]]: added Ch. 07 appearance — "Polly Hare's devotees" cited in the nerve-filament creature context as the panpsychist tradition.
+- Updated [[Galactic Human Empire]]: added Ch. 07 empire-policy section covering hermit worm evacuation advisory, dust technology ban (high-official exemption), tacit tolerance of mind-blending endpoints, and implied inability to respond to the dreaming stars crisis.
+- Updated `index.md` and `overview.md`: Ch. 07 moved from pending to ingested.
+
 ## [2026-04-14] ingest | Ch. 06 — And the Leaves All Sing of God
 - Wrote story page: `stories/And the Leaves All Sing of God.md`.
 - Created 2 new character pages: [[The Submariner]], [[Aleph]].

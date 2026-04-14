@@ -2,7 +2,7 @@
 type: character
 aliases: [Hare]
 first_seen: Ch. 02 — Timeline of The 500 Year Climb
-sources: [Ch. 02 — Timeline of The 500 Year Climb, Ch. 05 — A Dictionary]
+sources: [Ch. 02 — Timeline of The 500 Year Climb, Ch. 05 — A Dictionary, Ch. 07 — 101 Things to Not Visit in the Galaxy Before You Die]
 tags: [fifth-science/character, fifth-science/science]
 ---
 
@@ -20,6 +20,7 @@ By [[Ch. 05 — A Dictionary]] the compounding effect of her work is visible: th
 ## Appearances
 - [[Ch. 02 — Timeline of The 500 Year Climb]]: Named as author of the founding paper at 0 A.L.
 - [[Ch. 05 — A Dictionary]]: Invoked by name as the originator of the decoherence process underwriting hypergeometric quiet chamber messaging.
+- [[Ch. 07 — 101 Things to Not Visit in the Galaxy Before You Die]]: Named indirectly — "Polly Hare's devotees still remain strong in some regions of the empire" — in the context of the moon-sized nerve-filament creature at [[New Gara Bov]] that may compute the universe from first principles. Her devotees interpret this as support for the panpsychist tradition her work seeded.
 
 ## Related
 - [[Hare Method]] — the method she publishes.
@@ -33,3 +34,4 @@ By [[Ch. 05 — A Dictionary]] the compounding effect of her work is visible: th
 - Why "mathematicist" and not "mathematician" — is this a deliberate coinage by the author marking a future discipline?
 - Did Hare herself describe her positrons as "decohered" in this sense, or is that a later reinterpretation of the 0 A.L. method?
 - Does she appear as a character (not just a citation) in any of the unread stories?
+- Who specifically are "Polly Hare's devotees" — a philosophical school, a religious movement, a scientific faction?

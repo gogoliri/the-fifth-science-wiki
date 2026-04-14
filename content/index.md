@@ -20,10 +20,10 @@ Catalog of every wiki page. Read this first before answering queries. See `CLAUD
 - [[The Menagerie]] — Ch. 04. An empire nootician is topology-cast to an artie-run underwater lab and discovers his cells full of broken copies of himself.
 - [[A Dictionary]] — Ch. 05. An Ertian trauma surgeon boards a TZ-stricken hollowship and recovers the cauterising residue that decodes into a forty-entry xeno vocabulary list.
 - [[And the Leaves All Sing of God]] — Ch. 06. Post-human parable: a mInd civilisation in Arcadia encounters three cross-scale Great Quandaries embedded in nature, survives the century-long suicide Crisis via Aleph's middle-way speech, and decodes the Message that vindicates the book's panpsychism.
+- [[101 Things to Not Visit in the Galaxy Before You Die]] — Ch. 07. Essay-catalogue of the galaxy's strangest dangers: void creatures, colony disasters, alien megastructures, untranslatable warnings, and the Dreaming Stars.
 - [[Notes on Why Stuff Got Written]] — Ch. 15. Per-story author commentary.
 
 ### Pending ingest (stub source pages exist)
-- [[Ch. 07 — 101 Things to Not Visit in the Galaxy Before You Die]]
 - [[Ch. 08 — The Lantern]]
 - [[Ch. 09 — The Want Machine]]
 - [[Ch. 10 — Water for Lunch]]
@@ -59,6 +59,10 @@ Catalog of every wiki page. Read this first before answering queries. See `CLAUD
 
 ## Places
 - [[Aerth]] — The human homeworld; the old-spelling counterpart of Earth.
+- [[New Gara Bov]] — Ch. 07. Colony world briefly orbited by a moon-sized nerve-filament creature; "Polly Hare's devotees" interpret it as panpsychist evidence.
+- [[Signus B3]] — Ch. 07. Star system whose two colony worlds merged into planetary superorganisms via mind-blending technology and subsequently fell in love.
+- [[Ist]] — Ch. 07. Colony world destroyed by its own secret dust technology; only ashes remain.
+- [[Barnard Nebula]] — Ch. 07. Nebula in Region Gamma-H2; home of the best-documented warning beacon; ships entering it never return.
 - [[Luna]] — Aerth's moon, used in Ch. 03 as a collider size yardstick.
 - [[LDH39]] — Star system reached in 292 A.L. by *[[The Hand That Draws Itself]]*.
 - [[IR394]] — Star system reached in 445 A.L. by the *[[Geo Milev]]* via [[Ribbondash]].
@@ -102,6 +106,8 @@ Catalog of every wiki page. Read this first before answering queries. See `CLAUD
 - [[Dust-image]] — Ch. 05. Volumetric display medium used by [[Eda Hamebe]] to show the dictionary.
 - [[Delphium]] — Ch. 05. Standard starship fuel; [[Orb Dannika]]'s leverage in the massacre cover-up exposure.
 - [[TZ Star]] — Ch. 05. Thorne–Żytkow star; slingshot waypoint and the exit point of unknown high-velocity artifacts.
+- [[Dust Technology]] — Ch. 07. Illegal nano-artform (except for high officials); mental-band-driven matter manipulation; destroyed the colony world [[Ist]].
+- [[Mind-Blending Technology]] — Ch. 07. Consciousness-merging tech; at population scale, inevitable planetary-superorganism endpoint (see [[Signus B3]]).
 
 ## Concepts
 - [[The Fifth Science]] — Title concept: consciousness as fundamental force.
@@ -118,6 +124,10 @@ Catalog of every wiki page. Read this first before answering queries. See `CLAUD
 - [[The Dictionary]] — Ch. 05. Forty+ xeno-authored technical definitions delivered as TZ-exit artifact cargo.
 - [[The Great Quandaries]] — Ch. 06. Three cross-scale regions of nature (galactic cluster C1E13, gauge theory Scalar B, storm turbulence) lethal to any mInd who reads them directly.
 - [[The Message]] — Ch. 06. Aleph's hypothesis — and the narrator's vindication — that the Quandaries are a unity signature embedded in nature at every observable scale.
+- [[Ether Orca]] — Ch. 07. Higher-dimensional void creature; cuts through dimensional space via infinitely thin beak; surfaces near voidships and dives away.
+- [[Hermit Worm]] — Ch. 07. Planet-scale creature that wears planets like shells, consuming them from inside; no known defense.
+- [[Dreaming Stars]] — Ch. 07. Star-like structures that play your lost memories in your mind and invite you to enter; increasingly many people are accepting.
+- [[Warning Beacons]] — Ch. 07. Crystalline spheres emitting continuous undeciphered radio pulses; found near lethal zones throughout the galaxy; four centuries untranslated.
 
 ## Events
 - [[Narrative War]] — 183–194 A.L. Aerth-side conflict.
