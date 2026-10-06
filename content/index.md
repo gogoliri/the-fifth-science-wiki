@@ -21,10 +21,10 @@ Catalog of every wiki page. Read this first before answering queries. See `CLAUD
 - [[A Dictionary]] — Ch. 05. An Ertian trauma surgeon boards a TZ-stricken hollowship and recovers the cauterising residue that decodes into a forty-entry xeno vocabulary list.
 - [[And the Leaves All Sing of God]] — Ch. 06. Post-human parable: a mInd civilisation in Arcadia encounters three cross-scale Great Quandaries embedded in nature, survives the century-long suicide Crisis via Aleph's middle-way speech, and decodes the Message that vindicates the book's panpsychism.
 - [[101 Things to Not Visit in the Galaxy Before You Die]] — Ch. 07. Essay-catalogue of the galaxy's strangest dangers: void creatures, colony disasters, alien megastructures, untranslatable warnings, and the Dreaming Stars.
+- [[The Lantern]] — Ch. 08. A lonely station worker is offered recruitment by a lantern, an engineered etherspace pilot who knows everyone's death date, and who turns out to be his own future self.
 - [[Notes on Why Stuff Got Written]] — Ch. 15. Per-story author commentary.
 
 ### Pending ingest (stub source pages exist)
-- [[Ch. 08 — The Lantern]]
 - [[Ch. 09 — The Want Machine]]
 - [[Ch. 10 — Water for Lunch]]
 - [[Ch. 11 — The Girl and the Pit]]
@@ -56,6 +56,9 @@ Catalog of every wiki page. Read this first before answering queries. See `CLAUD
 - [[Henrietta]] — Ch. 05. The surgeon's first wife, long dead.
 - [[The Submariner]] — Ch. 06. Purpose-built unkillable mInd sent to examine the first two Great Quandaries; returns silent forever.
 - [[Aleph]] — Ch. 06. Reclusive philosopher mInd whose middle-way speech ends the Quandary Crisis.
+- [[The Sandansk Station Worker]] — Ch. 08. Unnamed divorced station worker; the lantern's recruit and past self.
+- [[Beomus]] — Ch. 08. Organic poor-deck bartender; true name Shat'Nusemit; heart attack in 3 years.
+- [[Paola Hammond]] — Ch. 08. Woman reading in the bar; foretold to die in a welding accident.
 
 ## Places
 - [[Aerth]] — The human homeworld; the old-spelling counterpart of Earth.
@@ -75,6 +78,9 @@ Catalog of every wiki page. Read this first before answering queries. See `CLAUD
 - [[Orb Ertia]] — Ch. 05. Colony of psychologists orbiting a [[TZ Star]]; setting of the *Vasily* rescue.
 - [[Orb Dannika]] — Ch. 05. Mining world, site of the buried [[Dannika Massacre]].
 - [[Arcadia]] — Ch. 06. Post-human garden-civilisation of mInds built on the empty mother planet after the human species dies out.
+- [[Sandansk]] — Ch. 08. Purplish-green world with 89 names, orbited by the waypoint station of *The Lantern*.
+- [[Ithaca]] — Ch. 08. Destination of the voidskipper on which the narrator is foretold to die.
+- [[Absente]] — Ch. 08. Destination of the lantern's voidskipper; the escape route.
 
 ## Ships
 - [[The Hand That Draws Itself]] — Artificially crewed voidship, reaches [[LDH39]] in 292 A.L.
@@ -110,6 +116,8 @@ Catalog of every wiki page. Read this first before answering queries. See `CLAUD
 - [[TZ Star]] — Ch. 05. Thorne–Żytkow star; slingshot waypoint and the exit point of unknown high-velocity artifacts.
 - [[Dust Technology]] — Ch. 07. Illegal nano-artform (except for high officials); mental-band-driven matter manipulation; destroyed the colony world [[Ist]].
 - [[Mind-Blending Technology]] — Ch. 07. Consciousness-merging tech; at population scale, inevitable planetary-superorganism endpoint (see [[Signus B3]]).
+- [[Voidskipper]] — Ch. 08. Civilian ribbondash passenger ship, "a nimble black fish" with a lantern bubble at the nose.
+- [[Transitsleep]] — Ch. 05/08. Suspended sleep ("longsleep") for passengers, needed because etherspace breaks awake humans.
 
 ## Concepts
 - [[The Fifth Science]] — Title concept: consciousness as fundamental force.
@@ -130,6 +138,9 @@ Catalog of every wiki page. Read this first before answering queries. See `CLAUD
 - [[Ether Orca]] — Ch. 07. Higher-dimensional void creature; cuts through dimensional space via infinitely thin beak; surfaces near voidships and dives away.
 - [[Hermit Worm]] — Ch. 07. Planet-scale creature that wears planets like shells, consuming them from inside; no known defense.
 - [[Dreaming Stars]] — Ch. 07. Star-like structures that play your lost memories in your mind and invite you to enter; increasingly many people are accepting.
+- [[Lantern]] — Ch. 08. Engineered Aerth-made mind that pilots ships awake through etherspace, sees past and future, and recruits its own past self.
+- [[Etherspace]] — Ch. 08. Timeless FTL medium entered by ribbondash; computers and awake humans fail there; "everwhen."
+- [[True Names]] — Ch. 08. The name the universe knows a thing by, encoding its age, form and time of death.
 - [[Warning Beacons]] — Ch. 07. Crystalline spheres emitting continuous undeciphered radio pulses; found near lethal zones throughout the galaxy; four centuries untranslated.
 
 ## Events

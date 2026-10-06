@@ -2,7 +2,7 @@
 type: place
 aliases: [Earth]
 first_seen: Ch. 02 — Timeline of The 500 Year Climb
-sources: [Ch. 02 — Timeline of The 500 Year Climb, Ch. 03 — For Every Dove a Bullet, Ch. 04 — The Menagerie, Ch. 05 — A Dictionary]
+sources: [Ch. 02 — Timeline of The 500 Year Climb, Ch. 03 — For Every Dove a Bullet, Ch. 04 — The Menagerie, Ch. 05 — A Dictionary, Ch. 08 — The Lantern]
 tags: [fifth-science/place, fifth-science/homeworld]
 ---
 
@@ -20,6 +20,7 @@ The human homeworld. "Aerth" is the consistent in-universe spelling and is the o
 - [[Ch. 03 — For Every Dove a Bullet]]: Home planet of the pre-A.L. packets ([[Winston Earnest]], [[Henry Berkhamsted]]), the generation-ship launch ([[Jenny Dunne]], ~119 A.L.), and the 2641 A.L. Pasternak-era collider, which is described as larger in diameter than the distance from Aerth to [[Luna]].
 - [[Ch. 04 — The Menagerie]]: The empire hub address [[Isaac Bernhardt]] reaches (or thinks he reaches) from [[Kaisure Station]] via [[Hypergeometric Quiet Chamber|quiet chamber]] — the home of his long-dead wife [[Sun-Iesh Bernhardt]], citizen 2093/A9.
 - [[Ch. 05 — A Dictionary]]: Visited by [[The Ertian Surgeon]] via topolog on his final trip. Late-state texture: cranial implants are standard, "orange chimneys" dominate the skyline, the surgeon drinks Winchester, and an **artie-rights street preacher** is still active on an unnamed Aerth street — confirming that post-[[Artie War]] sympathy for [[Mechanical Intelligence|arties]] remains a live public cause on the homeworld.
+- [[Ch. 08 — The Lantern]]: Where scientists engineered the [[Lantern|lanterns]], and where recruits still go to be physically remade and trained. Aerth remains the centre of the etherspace-piloting programme.
 
 ## Related
 - [[Galactic Human Empire]], [[Democratic Bulgaric Republic]], [[United Nations]]

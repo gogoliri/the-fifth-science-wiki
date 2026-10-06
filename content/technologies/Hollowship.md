@@ -23,7 +23,7 @@ Hollowships routinely enter systems with **[[TZ Star|Thorne–Żytkow]]** stars 
 - **Emergency field-bubbles** — small localised oxygen pockets, seen (depleted) in the Vasily's resuscitation centre.
 - **[[Willtech]]** propulsion for anyone aboard in a compatible suit — the boarder thinks *forward* and the suit's "strange mechanism" agrees.
 - **[[Dust-image]]** displays throughout — enormous coloured holographic readouts on the bridge, smaller personal dust-images for navigation.
-- **Longsleep chambers** by the thousand, arranged up the walls of an imperfect interior sphere.
+- **[[Transitsleep|Longsleep]] chambers** by the thousand, arranged up the walls of an imperfect interior sphere.
 - **Laser-calligraphy** engravings (the seventy-foot Vasily epitaph).
 
 ## Effects / capabilities
@@ -43,6 +43,7 @@ Hollowships routinely enter systems with **[[TZ Star|Thorne–Żytkow]]** stars 
 - [[TZ Star]], [[The Dictionary]]
 - [[Willtech]], [[Dust-image]]
 - [[Voidship]], [[Generation Ship]] — earlier crewed long-haul categories.
+- [[Voidskipper]] — Ch. 08's civilian ribbondash passenger ship; [[Transitsleep]] — the longsleep process.
 
 ## Open questions
 - How many hollowships are active at any given time? The story implies "many."

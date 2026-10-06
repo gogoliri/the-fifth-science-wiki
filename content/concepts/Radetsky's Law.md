@@ -2,7 +2,7 @@
 type: concept
 aliases: []
 first_seen: Ch. 05 — A Dictionary
-sources: [Ch. 05 — A Dictionary]
+sources: [Ch. 05 — A Dictionary, Ch. 08 — The Lantern]
 tags: [fifth-science/concept, fifth-science/physics]
 ---
 
@@ -21,6 +21,7 @@ The law is the cleanest in-book statement so far of the book's recurring flirtat
 
 ## In the book
 - [[Ch. 05 — A Dictionary]]: Named and defined in the quiet-chamber exposition.
+- [[Ch. 08 — The Lantern]]: Not named, but experienced directly. In [[Etherspace]] "all events occur at once", and the [[Lantern]] calls Time "a bread loaf already baked". The narrator recalls from school "temporal physics" that a foreseen fate can't be changed: trying only seals it. Lanterns visiting their own past selves is the human-scale version of the Dictionary's Retrounification.
 
 ## Real-world grounding
 - Block-universe / eternalist interpretations of spacetime, in which "now" has no privileged ontological status.
@@ -28,6 +29,7 @@ The law is the cleanest in-book statement so far of the book's recurring flirtat
 
 ## Related
 - [[Causations]], [[Hypergeometric Quiet Chamber]], [[The Dictionary]]
+- [[Etherspace]], [[Lantern]], [[True Names]] (Ch. 08)
 - [[Polly Hare]] — whose decohered-particle work is the tool Radetsky's Law constrains.
 
 ## Open questions

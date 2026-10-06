@@ -16,6 +16,13 @@ Append-only record of wiki operations. See `CLAUDE.md` for log format.
 - Seeded entity pages for everything named in the Timeline and Introduction: 4 characters, 3 places, 3 ships, 4 factions, 8 technologies, 4 concepts, 2 events.
 - Stories Ch. 03 through Ch. 14 remain un-ingested — to be done one at a time in future sessions.
 
+## [2026-10-06] ingest | Ch. 08 — The Lantern
+- Wrote story page: `stories/The Lantern.md`. First-person POV, unnamed narrator; single scene in a waypoint-station bar over [[Sandansk]].
+- Created 3 concept pages: [[Lantern]] (engineered etherspace pilot; recruits its own past self), [[Etherspace]] (timeless FTL medium; computers and awake humans fail), [[True Names]] (the universe's name for a thing, encoding its death date).
+- Created 3 character pages: [[The Sandansk Station Worker]], [[Beomus]] (true name Shat'Nusemit), [[Paola Hammond]]. Created 3 place pages: [[Sandansk]], [[Ithaca]], [[Absente]]. Created 2 technology pages: [[Voidskipper]], [[Transitsleep]] (merges Ch. 05's "longsleep").
+- Updated [[Voidship]] (the term survives post-Ribbondash; partly resolves its open question), [[Ribbondash]] (etherspace mechanics; new open question about who was awake on the *Geo Milev*), [[Aerth]] (lantern engineering/training), [[Radetsky's Law]] (Ch. 08 as its lived form), [[Hollowship]] and [[Ether Orca]] (cross-links).
+- Updated `index.md` and `overview.md`: Ch. 08 moved to ingested; added a "Closed time / the fixed future" thread. No contradictions found. Ch. 02's AI-crewed voidships were sublight, so "computers fail in etherspace" doesn't conflict with them.
+
 ## [2026-04-14] lint | 3 broken links fixed; 2 stale concept pages updated; 3 new pages created
 - **Broken links resolved:**
   - `[[Orb Flain]]` (7 occurrences in TZ Star.md, The Dictionary.md, Vasily Incident.md) → created `places/Orb Flain.md`.

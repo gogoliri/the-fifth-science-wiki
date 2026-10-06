@@ -21,6 +21,7 @@ The orca framing — sociable, curious, surfaces and dives — suggests somethin
 - [[Hermit Worm]] — another void creature catalogued in the same chapter
 - [[Dreaming Stars]] — another non-human entity whose intentions toward humans are ambiguous
 - [[Voidship]] — the craft ether orcas surface near
+- [[Etherspace]] — Ch. 08's timeless FTL medium; the "ether" in the name suggests orcas may be native to it (unconfirmed)
 
 ## Open questions
 - What are their motivations? The text states we "cannot yet understand" them.
