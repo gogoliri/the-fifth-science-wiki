@@ -2,7 +2,7 @@
 type: concept
 aliases: []
 first_seen: Ch. 03 — For Every Dove a Bullet
-sources: [Ch. 03 — For Every Dove a Bullet]
+sources: [Ch. 03 — For Every Dove a Bullet, Ch. 09 — The Want Machine]
 tags: [fifth-science/concept, fifth-science/language]
 ---
 
@@ -15,6 +15,7 @@ The working language of [[K. Pasternak]]'s court. Named once in passing — [[Th
 
 ## Appearances
 - [[Ch. 03 — For Every Dove a Bullet]]: Named as the language of [[K. Pasternak]].
+- [[Ch. 09 — The Want Machine]]: Not mentioned. A second named in-universe language appears, [[Lomese]], which has seventeen ways to say thank you and no imperatives.
 
 ## Related
 - [[K. Pasternak]], [[Galactic Human Empire]]

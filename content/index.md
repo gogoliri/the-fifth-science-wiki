@@ -22,10 +22,10 @@ Catalog of every wiki page. Read this first before answering queries. See `CLAUD
 - [[And the Leaves All Sing of God]] — Ch. 06. Post-human parable: a mInd civilisation in Arcadia encounters three cross-scale Great Quandaries embedded in nature, survives the century-long suicide Crisis via Aleph's middle-way speech, and decodes the Message that vindicates the book's panpsychism.
 - [[101 Things to Not Visit in the Galaxy Before You Die]] — Ch. 07. Essay-catalogue of the galaxy's strangest dangers: void creatures, colony disasters, alien megastructures, untranslatable warnings, and the Dreaming Stars.
 - [[The Lantern]] — Ch. 08. A lonely station worker is offered recruitment by a lantern, an engineered etherspace pilot who knows everyone's death date, and who turns out to be his own future self.
+- [[The Want Machine]] — Ch. 09. A lovesick cognitophysicist builds a desire-editing machine on the polite world Stara Lom. Desire-stripping spreads as "the Good Work" and kills all seven million inhabitants by 12,847 A.L.
 - [[Notes on Why Stuff Got Written]] — Ch. 15. Per-story author commentary.
 
 ### Pending ingest (stub source pages exist)
-- [[Ch. 09 — The Want Machine]]
 - [[Ch. 10 — Water for Lunch]]
 - [[Ch. 11 — The Girl and the Pit]]
 - [[Ch. 12 — Be Awake, Be Good]]
@@ -59,6 +59,10 @@ Catalog of every wiki page. Read this first before answering queries. See `CLAUD
 - [[The Sandansk Station Worker]] — Ch. 08. Unnamed divorced station worker; the lantern's recruit and past self.
 - [[Beomus]] — Ch. 08. Organic poor-deck bartender; true name Shat'Nusemit; heart attack in 3 years.
 - [[Paola Hammond]] — Ch. 08. Woman reading in the bar; foretold to die in a welding accident.
+- [[Shervance Ek]] — Ch. 09. Shy New Canadian cognitophysicist; builds the Want Machine and deletes himself.
+- [[Nadastra]] — Ch. 09. Ek's former colleague and unspoken love; married, on a moon of Jupiter.
+- [[Maximilian]] — Ch. 09. Missionary whose last surviving desire, to help others, spreads the machine.
+- [[Amelia Minsk]] — Ch. 09. Later cognitophysicist; shows the brain has seven types of love.
 
 ## Places
 - [[Aerth]] — The human homeworld; the old-spelling counterpart of Earth.
@@ -81,6 +85,8 @@ Catalog of every wiki page. Read this first before answering queries. See `CLAUD
 - [[Sandansk]] — Ch. 08. Purplish-green world with 89 names, orbited by the waypoint station of *The Lantern*.
 - [[Ithaca]] — Ch. 08. Destination of the voidskipper on which the narrator is foretold to die.
 - [[Absente]] — Ch. 08. Destination of the lantern's voidskipper; the escape route.
+- [[Stara Lom]] — Ch. 09. Gentle forest holiday world ("The World"); population wiped out by the Want Machine, 12,847 A.L.
+- [[New Canada]] — Ch. 09. Ice world; home of Shervance Ek and the New Canadian University.
 
 ## Ships
 - [[The Hand That Draws Itself]] — Artificially crewed voidship, reaches [[LDH39]] in 292 A.L.
@@ -117,6 +123,9 @@ Catalog of every wiki page. Read this first before answering queries. See `CLAUD
 - [[Dust Technology]] — Ch. 07. Illegal nano-artform (except for high officials); mental-band-driven matter manipulation; destroyed the colony world [[Ist]].
 - [[Mind-Blending Technology]] — Ch. 07. Consciousness-merging tech; at population scale, inevitable planetary-superorganism endpoint (see [[Signus B3]]).
 - [[Voidskipper]] — Ch. 08. Civilian ribbondash passenger ship, "a nimble black fish" with a lantern bubble at the nose.
+- [[Cognitotronic Bombardment Device]] — Ch. 09. "The Want Machine": removes and implants desires.
+- [[Cognitron]] — Ch. 09. Subatomic particle "responsible for producing self-awareness in all things"; probably the nooticle, found.
+- [[Cognitophysics]] — Ch. 09. Mature science of consciousness; probable successor of nootics.
 - [[Transitsleep]] — Ch. 05/08. Suspended sleep ("longsleep") for passengers, needed because etherspace breaks awake humans.
 
 ## Concepts
@@ -141,6 +150,7 @@ Catalog of every wiki page. Read this first before answering queries. See `CLAUD
 - [[Lantern]] — Ch. 08. Engineered Aerth-made mind that pilots ships awake through etherspace, sees past and future, and recruits its own past self.
 - [[Etherspace]] — Ch. 08. Timeless FTL medium entered by ribbondash; computers and awake humans fail there; "everwhen."
 - [[True Names]] — Ch. 08. The name the universe knows a thing by, encoding its age, form and time of death.
+- [[Lomese]] — Ch. 09. Stara Lom's language: seventeen thank-yous, no imperatives.
 - [[Warning Beacons]] — Ch. 07. Crystalline spheres emitting continuous undeciphered radio pulses; found near lethal zones throughout the galaxy; four centuries untranslated.
 
 ## Events
@@ -151,6 +161,7 @@ Catalog of every wiki page. Read this first before answering queries. See `CLAUD
 - [[Vasily Incident]] — Ch. 05. Third recorded TZ-exit artifact event; first to leave empire-recoverable material.
 - [[Dannika Massacre]] — Ch. 05. Eight-century-old empire atrocity, the template cover-up the Ertian Surgeon sees being repeated.
 - [[Fall of the Galactic Human Empire]] — Ch. 06. The 100,000-year empire's quiet end; the human species shuffles off. The pivot into post-human stories.
+- [[Stara Lom Extinction]] — Ch. 09. 12,847 A.L. Seven million dead without struggle after Want Machine desire-stripping spreads as "the Good Work." Latest explicit A.L. date so far.
 - [[The Quandary Crisis]] — Ch. 06. Century-long mInd suicide epidemic, ended by Aleph's middle-way speech.
 
 ## Sources

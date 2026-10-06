@@ -2,7 +2,7 @@
 type: concept
 aliases: [the fifth science]
 first_seen: Ch. 01 — Introduction
-sources: [Ch. 01 — Introduction, Ch. 03 — For Every Dove a Bullet, Ch. 06 — And the Leaves All Sing of God, Ch. 15 — Notes on Why Stuff Got Written]
+sources: [Ch. 01 — Introduction, Ch. 03 — For Every Dove a Bullet, Ch. 06 — And the Leaves All Sing of God, Ch. 15 — Notes on Why Stuff Got Written, Ch. 09 — The Want Machine]
 tags: [fifth-science/concept, fifth-science/consciousness]
 ---
 
@@ -21,6 +21,7 @@ If the conjecture is true, it means [[Consciousness]] can in principle be induce
 - [[Ch. 01 — Introduction]]: [[Exurb1a]] names the concept and dedicates the book to "the engineers and scientists who will one day build minds; from whatever materials, in whatever form."
 - [[Ch. 03 — For Every Dove a Bullet]]: In-universe research programme. [[Mentalic Ontology]] → [[Nootics]] → [[Nooticle]] → Aerth-Luna-scale collider. Ends unresolved.
 - [[Ch. 06 — And the Leaves All Sing of God]]: Vindicated in the narrator's closing sketch of the decoded [[The Message]]. "The common shape to all the processes of the world" is stated as recovered cosmological fact.
+- [[Ch. 09 — The Want Machine]]: The research programme Ch. 03 left unresolved has succeeded. [[Cognitophysics]] has found the [[Cognitron]] and, through [[Shervance Ek]], weaponises it by accident. The fifth science is now engineering, and its first application wipes out a planet.
 - [[Ch. 15 — Notes on Why Stuff Got Written]]: Explicitly names the concept as "consciousness might be another fundamental force alongside the regular four – hence: the fifth," and credits [[Panpsychism]] as the underlying philosophy.
 
 ## Real-world grounding

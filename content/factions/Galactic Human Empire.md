@@ -2,7 +2,7 @@
 type: faction
 aliases: [the Empire]
 first_seen: Ch. 01 — Introduction
-sources: [Ch. 01 — Introduction, Ch. 02 — Timeline of The 500 Year Climb, Ch. 03 — For Every Dove a Bullet, Ch. 04 — The Menagerie, Ch. 05 — A Dictionary, Ch. 06 — And the Leaves All Sing of God, Ch. 07 — 101 Things to Not Visit in the Galaxy Before You Die, Ch. 15 — Notes on Why Stuff Got Written]
+sources: [Ch. 01 — Introduction, Ch. 02 — Timeline of The 500 Year Climb, Ch. 03 — For Every Dove a Bullet, Ch. 04 — The Menagerie, Ch. 05 — A Dictionary, Ch. 06 — And the Leaves All Sing of God, Ch. 07 — 101 Things to Not Visit in the Galaxy Before You Die, Ch. 15 — Notes on Why Stuff Got Written, Ch. 09 — The Want Machine]
 tags: [fifth-science/faction, fifth-science/empire]
 ---
 
@@ -41,6 +41,9 @@ Ch. 07 is narrated as an official-adjacent catalogue of galactic oddities, and s
 - **Tolerance of mind-blending endpoints.** The merger of [[Signus B3]]'s two worlds into planetary superorganisms is described as a phenomenon "now well understood in the empire" — implying the empire has seen this before, considers the outcome a known trajectory, and does not intervene. Whether mind-blending technology itself is legal or regulated is unstated.
 - **[[Dreaming Stars]] crisis (implied).** The narrator closes the catalogue with alarm at the growing number of "the young, the tired, and the spent" who are giving themselves over to dreaming stars — entities that read memories and invite travellers to enter permanently. The empire appears to have no policy response; the narrator's prayer suggests none is forthcoming.
 
+## ~12,847 A.L. — Stara Lom ([[Ch. 09 — The Want Machine]])
+The latest explicit A.L. date in the book so far. All communications from [[Stara Lom]], once "a shining jewel in the empire's crown", cease in **12,847 A.L.** after the [[Stara Lom Extinction]]. Era texture: human middle age is ~250 years; physicists are "rockstars"; [[Cognitophysics]] has found the [[Cognitron]]; and an empire holiday world can be visited via legal visas but is later reached only by illegal ribbondash joyrides. The narrator writes from a later vantage, referring to "what's left of the empire", so decline is under way some time after 12,847 A.L.
+
 ## Notable members
 - [[Democratic Bulgaric Republic]] — founding state.
 - [[K. Pasternak]] — 73rd Empiral Marquis, ~2641 A.L. Secretly a packet of [[The First Wanderer]].
@@ -53,6 +56,7 @@ Ch. 07 is narrated as an official-adjacent catalogue of galactic oddities, and s
 - [[Ch. 04 — The Menagerie]]: Late-period; at open war with its arties; a Marquis hands [[Isaac Bernhardt]] over as part of peace terms.
 - [[Ch. 05 — A Dictionary]]: Decline-fatigue on display — ESIT, Marquis Guards, the quiet-chamber-hiding voidfleet branch, the hollowship-as-bait policy, and the Dannika Massacre exposed as standard cover-up practice.
 - [[Ch. 06 — And the Leaves All Sing of God]]: Named as a 100,000-year empire that ends in quiet species extinction. Pivots the book's timeframe into post-human territory.
+- [[Ch. 09 — The Want Machine]]: 12,847 A.L. loss of [[Stara Lom]]'s seven million to the Want Machine; "what's left of the empire" at narration time.
 - [[Ch. 07 — 101 Things to Not Visit in the Galaxy Before You Die]]: Empire policies referenced: hermit worm evacuation advisory, dust technology ban (high-official exemption), tacit acknowledgement of mind-blending's planetary-superorganism endpoint, and no stated response to the dreaming stars crisis.
 - [[Ch. 15 — Notes on Why Stuff Got Written]]: Discussed in context of its end.
 

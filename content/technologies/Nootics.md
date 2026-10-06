@@ -2,7 +2,7 @@
 type: technology
 aliases: [nootics, nootician]
 first_seen: Ch. 03 — For Every Dove a Bullet
-sources: [Ch. 03 — For Every Dove a Bullet]
+sources: [Ch. 03 — For Every Dove a Bullet, Ch. 09 — The Want Machine]
 tags: [fifth-science/technology, fifth-science/science]
 ---
 
@@ -20,6 +20,7 @@ Nootics is a serious, funded science — but not yet validated. The collider is 
 
 ## Appearances
 - [[Ch. 03 — For Every Dove a Bullet]]: [[K. Pasternak]] is a nootician; the whole Pasternak-arc turns on his research programme.
+- [[Ch. 09 — The Want Machine]]: Not named. The science of consciousness is now called **[[Cognitophysics]]**, has found its particle (the [[Cognitron]]), and with [[Shervance Ek]] learns to edit desire. Probably the mature successor of nootics.
 
 ## Related
 - [[Nooticle]], [[Mentalic Ontology]], [[Consciousness]], [[Panpsychism]], [[The Fifth Science]], [[Churten]]
@@ -27,5 +28,5 @@ Nootics is a serious, funded science — but not yet validated. The collider is 
 - [[The First Wanderer]] — secret sponsor.
 
 ## Open questions
-- Is the nootic research programme ever completed by a later Marquis?
+- Is the nootic research programme ever completed by a later Marquis? (Ch. 09 implies the particle is eventually found; see [[Cognitron]].)
 - Is "nootics" the book's title concept — i.e., is nootics literally the fifth science?

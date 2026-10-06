@@ -2,7 +2,7 @@
 type: concept
 aliases: []
 first_seen: Ch. 01 — Introduction
-sources: [Ch. 01 — Introduction, Ch. 03 — For Every Dove a Bullet, Ch. 06 — And the Leaves All Sing of God, Ch. 07 — 101 Things to Not Visit in the Galaxy Before You Die, Ch. 15 — Notes on Why Stuff Got Written]
+sources: [Ch. 01 — Introduction, Ch. 03 — For Every Dove a Bullet, Ch. 06 — And the Leaves All Sing of God, Ch. 07 — 101 Things to Not Visit in the Galaxy Before You Die, Ch. 15 — Notes on Why Stuff Got Written, Ch. 09 — The Want Machine]
 tags: [fifth-science/concept, fifth-science/consciousness]
 ---
 
@@ -20,6 +20,7 @@ The philosophical position that [[Consciousness]] is a fundamental feature of re
 - [[Ch. 03 — For Every Dove a Bullet]]: Dramatised. [[Mentalic Ontology]] is the in-universe name for panpsychism, and the wanderers are its walking proof.
 - [[Ch. 06 — And the Leaves All Sing of God]]: Endorsed as recovered cosmological fact in the narrator's closing sketch of the decoded [[The Message]].
 - [[Ch. 07 — 101 Things to Not Visit in the Galaxy Before You Die]]: "Polly Hare's devotees still remain strong in some regions of the empire" — the narrator's editorial comment on the nerve-filament creature orbiting [[New Gara Bov]], which scholars suggest computes the universe from first principles. This is the first time panpsychism is named in-universe as a *faction with adherents* rather than a research programme or a reader-facing frame. It also answers the open question below: in-universe advocates do exist, and they identify explicitly with Polly Hare's legacy.
+- [[Ch. 09 — The Want Machine]]: Stated as settled physics in passing. The [[Cognitron]] is "the subatomic particle responsible for producing self-awareness **in all things**." The book's most matter-of-fact in-universe confirmation.
 - [[Ch. 15 — Notes on Why Stuff Got Written]]: [[Exurb1a]] names the doctrine explicitly and ties it to the genesis of [[Ch. 03 — For Every Dove a Bullet]].
 
 ## Real-world grounding

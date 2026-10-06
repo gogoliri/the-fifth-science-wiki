@@ -2,7 +2,7 @@
 type: technology
 aliases: []
 first_seen: Ch. 03 — For Every Dove a Bullet
-sources: [Ch. 03 — For Every Dove a Bullet]
+sources: [Ch. 03 — For Every Dove a Bullet, Ch. 09 — The Want Machine]
 tags: [fifth-science/technology, fifth-science/science]
 ---
 
@@ -18,10 +18,11 @@ The predicted detection regime is **5 [[Churten|churtens]]** of beam energy — 
 
 ## Appearances
 - [[Ch. 03 — For Every Dove a Bullet]]: The object of [[K. Pasternak]]'s and [[The First Wanderer]]'s research.
+- [[Ch. 09 — The Want Machine]]: Not named, but by this later era (before 12,847 A.L.) the empire has "of course" discovered the **[[Cognitron]]**, "the subatomic particle responsible for producing self-awareness in all things." Very plausibly the nooticle found and renamed.
 
 ## Related
 - [[Nootics]], [[Mentalic Ontology]], [[Churten]], [[The Fifth Science]], [[The Four Sciences]]
 
 ## Open questions
-- **Does the nooticle exist in-universe?** The story is deliberately silent — Ch. 03 ends before detection. Later stories may resolve this.
+- **Does the nooticle exist in-universe?** Ch. 03 ends before detection. *Largely answered by Ch. 09:* a consciousness particle, the [[Cognitron]], is established physics by Ek's era. Whether "cognitron" and "nooticle" name the same particle is not stated.
 - Would detecting the nooticle confirm that wanderers are physically real, or is it a step short?

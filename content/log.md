@@ -16,6 +16,13 @@ Append-only record of wiki operations. See `CLAUDE.md` for log format.
 - Seeded entity pages for everything named in the Timeline and Introduction: 4 characters, 3 places, 3 ships, 4 factions, 8 technologies, 4 concepts, 2 events.
 - Stories Ch. 03 through Ch. 14 remain un-ingested — to be done one at a time in future sessions.
 
+## [2026-10-06] ingest | Ch. 09 — The Want Machine
+- Wrote story page: `stories/The Want Machine.md`. Third person, from a wry "we" narrator reconstructing events from forensic reports.
+- Created 4 character pages: [[Shervance Ek]], [[Nadastra]], [[Maximilian]], [[Amelia Minsk]]. Created 2 place pages: [[Stara Lom]], [[New Canada]]. Created 3 technology pages: [[Cognitotronic Bombardment Device]] (the Want Machine; named so it doesn't clash with the story page), [[Cognitron]], [[Cognitophysics]]. Created concept [[Lomese]] and event [[Stara Lom Extinction]] (12,847 A.L.).
+- Updated [[Nooticle]] (its main open question is largely answered by the cognitron; identity not confirmed), [[Nootics]] (cognitophysics as probable successor), [[Consciousness]] (Ch. 08 and Ch. 09 bullets), [[Panpsychism]] ("self-awareness in all things"), [[The Fifth Science]] (research programme completed), [[Mandala]] (sibling language), [[Galactic Human Empire]] (new 12,847 A.L. section).
+- Updated `index.md` and `overview.md`: Ch. 09 moved to ingested; research-lineage thread extended to cognitophysics.
+- No contradictions. Note: 12,847 A.L. plus the narrator's "what's left of the empire" fits the 100,000-year empire span from Ch. 06.
+
 ## [2026-10-06] ingest | Ch. 08 — The Lantern
 - Wrote story page: `stories/The Lantern.md`. First-person POV, unnamed narrator; single scene in a waypoint-station bar over [[Sandansk]].
 - Created 3 concept pages: [[Lantern]] (engineered etherspace pilot; recruits its own past self), [[Etherspace]] (timeless FTL medium; computers and awake humans fail), [[True Names]] (the universe's name for a thing, encoding its death date).
